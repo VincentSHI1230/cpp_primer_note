@@ -1,0 +1,9 @@
+# 忽略测试文件
+test.*
+*.test.*
+
+# 忽略 Jetbrains IDE 临时文件
+.idea/
+
+# 忽略 VSCode 运行片段
+tempCodeRunnerFile.*
