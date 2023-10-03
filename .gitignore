@@ -10,3 +10,7 @@ test.*
 
 # 忽略 VSCode 运行片段
 tempCodeRunnerFile.*
+
+# 忽略输入输出文件
+inpf
+optf
