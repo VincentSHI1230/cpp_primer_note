@@ -1,4 +1,4 @@
-// 1-20 <inpf >optf
+// 1_20 <inpf >optf
 #include <iostream>
 #include "Sales_item.h"
 int main() {

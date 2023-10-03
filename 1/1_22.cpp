@@ -1,7 +1,8 @@
-// 1-22 <inpf >optf
-#include <iostream>
+// 1_22 <inpf >optf
 #include "Sales_item.h"
-int main() {
+#include <iostream>
+int main()
+{
     Sales_item sum, book;
     std::cin >> sum;
     while (std::cin >> book) {
